@@ -1,0 +1,78 @@
+Client:,Sample Client,,,
+Site:,City,,,
+Room:,Second Boardroom,,,
+Date:,Apr-19,,,
+0,0,Desk,Yellow,Yes
+1,0,Desk,Yellow,Yes
+2,0,Desk,Yellow,Yes
+3,0,Desk,Yellow,Yes
+4,0,Desk,Yellow,Yes
+5,0,Desk,Yellow,Yes
+6,0,Desk,Yellow,Yes
+7,0,Desk,Yellow,Yes
+8,0,Desk,Yellow,Yes
+0,12,Glass Door,Blue,Yes
+0,13,Glass Door,Blue,Yes
+0,14,Glass Door,Blue,Yes
+0,15,Glass Door,Blue,Yes
+0,17,Cabinet,Purple,Yes
+0,18,Cabinet,Purple,Yes
+1,17,Cabinet,Purple,Yes
+1,18,Cabinet,Purple,Yes
+2,17,Cabinet,Purple,Yes
+2,18,Cabinet,Purple,Yes
+3,17,Cabinet,Purple,Yes
+3,18,Cabinet,Purple,Yes
+4,18,Window,Blue,Yes
+4,18,Window,Blue,Yes
+4,18,Window,Blue,Yes
+4,18,Window,Blue,Yes
+10,0,Door,Green,Yes
+10,4,TV Cabinet,Purple,Yes
+10,5,TV Cabinet,Purple,Yes
+10,6,TV Cabinet,Purple,Yes
+10,7,TV Cabinet,Purple,Yes
+10,8,TV Cabinet,Purple,Yes
+10,9,TV Cabinet,Purple,Yes
+10,10,TV Cabinet,Purple,Yes
+10,11,TV Cabinet,Purple,Yes
+3,7,Table,Yellow,Yes
+3,8,Table,Yellow,Yes
+3,9,Table,Yellow,Yes
+3,10,Table,Yellow,Yes
+4,7,Table,Yellow,Yes
+4,8,Table,Yellow,Yes
+4,9,Table,Yellow,Yes
+4,10,Table,Yellow,Yes
+5,7,Table,Yellow,Yes
+5,8,Table,Yellow,Yes
+5,9,Table,Yellow,Yes
+5,10,Table,Yellow,Yes
+6,7,Table,Yellow,Yes
+6,8,Table,Yellow,Yes
+6,9,Table,Yellow,Yes
+6,10,Table,Yellow,Yes
+7,7,Table,Yellow,Yes
+7,8,Table,Yellow,Yes
+7,9,Table,Yellow,Yes
+7,10,Table,Yellow,Yes
+8,7,Table,Yellow,Yes
+8,8,Table,Yellow,Yes
+8,9,Table,Yellow,Yes
+8,10,Table,Yellow,Yes
+2,7,Chair,Green,No
+2,8,Chair,Green,No
+2,9,Chair,Green,No
+2,10,Chair,Green,No
+3,6,Chair,Green,No
+4,6,Chair,Green,No
+5,6,Chair,Green,No
+6,6,Chair,Green,No
+7,6,Chair,Green,No
+8,6,Chair,Green,No
+3,11,Chair,Green,No
+4,11,Chair,Green,No
+5,11,Chair,Green,No
+6,11,Chair,Green,No
+7,11,Chair,Green,No
+8,11,Chair,Green,No
