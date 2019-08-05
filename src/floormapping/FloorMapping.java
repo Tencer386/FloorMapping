@@ -31,6 +31,7 @@ public class FloorMapping extends JFrame implements ActionListener, KeyListener
     int ysizearray = 0;
     int xPos = 0;
     int yPos = 0;
+	int tempValue = 0;
 
     private JTextField[][] fields;
     private String[][] tempfields;
